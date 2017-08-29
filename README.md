@@ -14,6 +14,7 @@ Daftar komunitas / organisasi yang terkait dengan pemrograman / networking / sys
 ### G
 ### H
 ### I
+  - [INReady Workgroup](https://www.facebook.com/inreadyworkgroup/)
 ### J
 ### K
   - [Komunitas Programmer Makassar](https://www.facebook.com/groups/1710616582489607/)
